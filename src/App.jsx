@@ -66,9 +66,9 @@ const WILAYAS = [
 ];
 
 const PRODUCTS = [
-  { id:1, name:"المجموعة الأسطورية",    category:"tote",    price:1200, badge:"الأكثر مبيعاً", badgeColor:"#e67e22", emoji:"🌅", color:"#FEE2C8", image: "/images/pack.jpeg", desc:"تجميعة ثلاثة حقائب مع محفظة نقود" },
+  { id:1, name:"المجموعة الأسطورية",    category:"tote",    price:800, badge:"الأكثر مبيعاً", badgeColor:"#e67e22", emoji:"🌅", color:"#FEE2C8", image: "/images/pack.jpeg", desc:"تجميعة ثلاثة حقائب مع محفظة نقود" },
 
-  { id:5, name:"حقيبة وردية بجيب",             category:"shopper", price:950,  badge:"جديد",            badgeColor:"#27ae60", emoji:"☕", color:"#FDE68A", image: "/images/pink_bag.jpg", desc:"للفتيات الأنيقات." },
+  { id:5, name:"حقيبة وردية بجيب",             category:"shopper", price:300,  badge:"جديد",            badgeColor:"#27ae60", emoji:"☕", color:"#FDE68A", image: "/images/pink_bag.jpg", desc:"للفتيات الأنيقات." },
  
 ];
 
